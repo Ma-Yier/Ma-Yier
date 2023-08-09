@@ -20,8 +20,9 @@
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ma-Yier&theme=vue&area=true)](https://github.com/Ma-Yier/Ma-Yier)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue&show_icons=true&hide=prs,contribs)](https://github.com/Ma-Yier/Ma-Yier)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yier&layout=compact)](https://github.com/Ma-Yier/Ma-Yier)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue&show_icons=true&hide=prs&rank_icon=github)](https://github.com/Ma-Yier/Ma-Yier)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yier)](https://github.com/Ma-Yier/Ma-Yier)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ma-Yier&theme=vue-dark&locale=en&date_format=Mj[,Y]&hide_border=true&card_width=750&type=json)](https://github.com/Ma-Yier/Ma-Yier)
