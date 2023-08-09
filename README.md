@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ma-Yier&theme=vue-dark&locale=ja&date_format=M j[, Y]&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ma-Yier&theme=vue-dark&locale=ja&date_format=Mj[,Y]&hide_border=true)](https://git.io/streak-stats)
 
