@@ -17,7 +17,10 @@
 - ⚡ Fun fact: ...
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ma-Yier&theme=vue&area=true)](https://github.com/Ma-Yier/Ma-Yier)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ma-Yier&theme=vue&area=true)](https://github.com/Ma-Yier/Ma-Yier)
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue)](https://github.com/Ma-Yier/Ma-Yier)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ma-Yier&theme=vue-dark&locale=en&date_format=Mj[,Y]&hide_border=true&card_width=750&type=json)](https://github.com/Ma-Yier/Ma-Yier)
