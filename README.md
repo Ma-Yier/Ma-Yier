@@ -2,8 +2,9 @@
 
 <!--
 **Ma-Yier/Ma-Yier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here+are+some+info+about+me)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ma-Yier&theme=vue-dark&locale=en&date_format=Mj[,Y]&hide_border=true&card_width=750)](https://git.io/streak-stats)
 
