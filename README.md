@@ -4,7 +4,11 @@
 **Ma-Yier/Ma-Yier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile...;Here+are+some+information+about+my+GitHub;...&backgroud=34495E&color=41B883FE&pause=1&multiline=true&size=18&font=Handjet)](https://github.com/Ma-Yier/Ma-Yier)
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=500&color=41B883&background=34495EFE&multiline=true&width=750&height=100&lines=Welcome+to+my+GitHub+profile+...;Here+is+some+information+about+my+GitHub+...)](https://git.io/typing-svg
 
 
 
