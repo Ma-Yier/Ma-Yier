@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on bioinformatics
 - 🎞️ I' m watching the anime [*Battle Through the Heaven*](https://www.youtube.com/watch?v=ZSs671MXzCg&list=PLLAr5GYz8LF7KoDIHH671JPd0cJ-qDmd6&ab_channel=%E9%98%85%E6%96%87%E5%8A%A8%E7%94%BB%E5%AE%98%E6%96%B9%E9%A2%91%E9%81%93YuewenAnimation)
 - ⚽ Sports: Biking
-- 🏎️ Formula 1 fan
+- 🏎️ Fan of Formula 1
 - 📧 How to reach me: adding issues
 
 
