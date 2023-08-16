@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here+are+some+info+about+me+...&backgroud=34495E&color=41B883)](https://github.com/Ma-Yier/Ma-Yier)
 
 
-- 🧑‍💻 I’m currently working on [Constraint-based Metabolic Modeling](https://github.com/Ma-Yier/RatGene)
+- ‍💻 I’m currently working on [Constraint-based Metabolic Modeling](https://github.com/Ma-Yier/RatGene)
 - 📚 I’m currently reading [*Guns, Germs, and Steel: The Fates of Human Societies*](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 - 👯 I’m looking to collaborate on bioinformatics
 - 🤔 I’m looking for help with ...
