@@ -4,7 +4,7 @@
 **Ma-Yier/Ma-Yier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Here+are+some+information+about+my+GitHub...; + + &backgroud=34495E&color=41B883&pause=1&multiline=true)](https://github.com/Ma-Yier/Ma-Yier)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Here+are+some+information+about+my+GitHub;...&backgroud=34495E&color=41B883&pause=1&multiline=true)](https://github.com/Ma-Yier/Ma-Yier)
 
 
 - ‍💻 I’m currently working on [Constraint-based Metabolic Modeling](https://github.com/Ma-Yier/RatGene)
