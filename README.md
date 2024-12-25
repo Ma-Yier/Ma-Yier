@@ -29,8 +29,3 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ma-Yier&theme=vue-dark&hide_border=true&border_radius=20&card_width=840)](https://github.com/Ma-Yier/Ma-Yier)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=RatGenePy)](https://github.com/Ma-Yier/Ma-Yier)
-[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=RatBDD)](https://github.com/Ma-Yier/Ma-Yier)
-[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=TCGA-analysis)](https://github.com/Ma-Yier/Ma-Yier)
-[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=co2)](https://github.com/Ma-Yier/Ma-Yier)
