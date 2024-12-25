@@ -24,9 +24,13 @@
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ma-Yier&theme=vue&area=true)](https://github.com/Ma-Yier/Ma-Yier)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue&show_icons=true&hide=prs&rank_icon=github&card_width=450&hide_title=true)](https://github.com/Ma-Yier/Ma-Yier)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue&show_icons=true&hide=prs&rank_icon=github&card_width=450)](https://github.com/Ma-Yier/Ma-Yier)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yier&layout=compact&card_width=390)](https://github.com/Ma-Yier/Ma-Yier)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ma-Yier&theme=vue-dark&hide_border=true&border_radius=20&card_width=840)](https://github.com/Ma-Yier/Ma-Yier)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=RatGenePy)](https://github.com/Ma-Yier/Ma-Yier)
+[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=RatBDD)](https://github.com/Ma-Yier/Ma-Yier)
+[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=TCGA-analysis)](https://github.com/Ma-Yier/Ma-Yier)
+[![Gist Card](https://github-readme-stats.vercel.app/api/pin?username=Ma-Yier&show_owner=true&repo=co2)](https://github.com/Ma-Yier/Ma-Yier)
