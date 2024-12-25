@@ -24,7 +24,7 @@
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ma-Yier&theme=vue&area=true)](https://github.com/Ma-Yier/Ma-Yier)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue&show_icons=true&hide=prs&rank_icon=github&card_width=450)](https://github.com/Ma-Yier/Ma-Yier)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-Yier&theme=vue&show_icons=true&hide=prs&rank_icon=github&card_width=450&hide_title=true)](https://github.com/Ma-Yier/Ma-Yier)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yier&layout=compact&card_width=390)](https://github.com/Ma-Yier/Ma-Yier)
 
 
